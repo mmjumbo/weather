@@ -76,7 +76,7 @@ export default function Weather(props) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            SheCodes
+            Margaret Jumbo
           </a>{" "}
           and is{" "}
           <a
@@ -88,7 +88,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-weather.netlify.app/"
+            href="https://github.com/mmjumbo/weather"
             target="_blank"
             rel="noopener noreferrer"
           >
