@@ -80,7 +80,7 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/weather"
+            href="https://github.com/mmjumbo/weather"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -88,7 +88,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/mmjumbo/weather"
+            href="https://admirable-syrniki-54b2ea.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
